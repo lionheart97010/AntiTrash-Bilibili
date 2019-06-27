@@ -2,9 +2,11 @@
 
 Get rid of Fxxking annoying meaningless barrages.
 
-There are comments to tell why they've been banned below every users.
-
 You can delete all your items in your banlist. But before you do that,always remember to BACKUP.
+
+# Users
+
+There are comments to tell why they've been banned below every users.
 
 # Text
 
