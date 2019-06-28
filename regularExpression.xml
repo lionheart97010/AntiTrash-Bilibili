@@ -7,7 +7,6 @@
 <item enabled="true">r=这个.*我来守护</item>
 <item enabled="true">r=(我要|我已经|已)报警</item>
 <item enabled="true">r=(独享|空降)(成功|失败)</item>
-<item enabled="true">r=(\.|-|/|年|、|\\)*.*(\.|-|/|月|、|\\).*(日)*</item>
 <item enabled="true">r=不火(没道理|没天理|不应该|不科学)</item>
 <item enabled="true">r=开口(跪|尿|已跪|脆|溜)</item>
 <item enabled="true">r=(蜜汁|迷之|迷の)(带感|感动|好听|动听|不火)</item>
@@ -23,5 +22,5 @@
 <item enabled="true">r=关上.*的大门</item>
 <item enabled="true">r=富强.*民主.*文明.*和谐.*自由.*平等.*公正.*法治.*爱国.*敬业.*诚信.*友善</item>
 <item enabled="true">r=[卧握沃喔窝我WwOo]+[槽操日草CcAaOo]+</item>
-<item enabled="true">r=(.)/1/1</item>
+<item enabled="true">r=(.)/1/1/1</item>
 </filters>
