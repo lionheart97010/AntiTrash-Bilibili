@@ -22,6 +22,6 @@
 <item enabled="true">r=关上.*的大门</item>
 <item enabled="true">r=富强.*民主.*文明.*和谐.*自由.*平等.*公正.*法治.*爱国.*敬业.*诚信.*友善</item>
 <item enabled="true">r=[卧握沃喔窝我WwOo]+[槽操日草CcAaOo]+</item>
-<item enabled="true">r=(.)/1/1/1</item>
+<item enabled="true">r=(.)\1\1\1</item>
 <item enabled="true">r=最后(1|一|亿)遍</item>
 </filters>
