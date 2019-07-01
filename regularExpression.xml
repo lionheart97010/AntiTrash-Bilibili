@@ -24,4 +24,5 @@
 <item enabled="true">r=[卧握沃喔窝我WwOo]+[槽操日草CcAaOo]+</item>
 <item enabled="true">r=(.)\1\1\1</item>
 <item enabled="true">r=最后(1|一|亿)遍</item>
+<item enabled="true">r=选择.*全都要</item>
 </filters>
