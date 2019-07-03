@@ -23,6 +23,14 @@
 <item enabled="true">r=富强.*民主.*文明.*和谐.*自由.*平等.*公正.*法治.*爱国.*敬业.*诚信.*友善</item>
 <item enabled="true">r=[卧握沃喔窝我WwOo]+[槽操日草CcAaOo]+</item>
 <item enabled="true">r=(.)\1\1\1</item>
-<item enabled="true">r=最后(1|一|亿)遍</item>
+<item enabled="true">r=(最后|再来|在来)(1|一|亿)遍</item>
+<item enabled="true">r=年.*报(到|道)</item>
+<item enabled="true">r=超(电|電)磁(炮|砲)</item>
+<item enabled="true">r=(指尖|指先).*(生|永远|变|変).*(信仰|信念|梦|夢)</item>
 <item enabled="true">r=选择.*全都要</item>
+<item enabled="true">r=唯我.*长存</item>
+<item enabled="true">r=.{20,}</item>
+<item enabled="true">r=那个.*认真的</item>
+<item enabled="true">r=我的.*随意</item>
+<item enabled="true">r=(卢本伟|芦苇|卢姥爷|lbw|LBW|Lbw)</item>
 </filters>
