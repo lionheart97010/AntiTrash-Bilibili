@@ -33,4 +33,5 @@
 <item enabled="true">r=那个.*认真的</item>
 <item enabled="true">r=我的.*随意</item>
 <item enabled="true">r=(卢本伟|芦苇|卢姥爷|lbw|LBW|Lbw)</item>
+<item enabled="true">r=^.{1,2}色$</item>
 </filters>
