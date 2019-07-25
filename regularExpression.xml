@@ -34,5 +34,8 @@
 <item enabled="true">r=我的.*随意</item>
 <item enabled="true">r=(卢本伟|芦苇|卢姥爷|lbw|LBW|Lbw)</item>
 <item enabled="true">r=^.{1,2}色$</item>
-<item enabled="true">r=献祭.*(许愿|换)
+<item enabled="true">r=献祭.*(许愿|换|给我)
+<item enabled="true">r=^(许愿|还愿|还原|出了|没出)
+<item enabled="true">r=(许愿|还原|还愿|出了|没出)$
+<item enabled="true">r=^(出了|没出|已出)$
 </filters>
