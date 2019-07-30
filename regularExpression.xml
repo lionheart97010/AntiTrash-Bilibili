@@ -13,7 +13,7 @@
 <item enabled="true">r=(我|你们|来看|看)老婆</item>
 <item enabled="true">r=(愛|爱)*(MIKU|Miku|miku|ミク)(赛高|賽高)*</item>
 <item enabled="true">r=这个.*我给(100|一百|壹佰|99|九十九|玖拾玖)分</item>
-<item enabled="true">r=硬币(已投|已给|已丢|已滚|拿去|走起)</item>
+<item enabled="true">r=(硬|处女)币(已投|已给|已丢|已滚|拿去|走起|给了)</item>
 <item enabled="true">r=高产(Up主|up主|UP主|似母猪)</item>
 <item enabled="true">r=看到这.*你已经不是前</item>
 <item enabled="true">r=另外.*(你|你们)好</item>
@@ -38,4 +38,10 @@
 <item enabled="true">r=^(许愿|还愿|还原|出了|没出)
 <item enabled="true">r=(许愿|还原|还愿|出了|没出)$
 <item enabled="true">r=^(出了|没出|已出)$
+<item enabled="true">r=(洛阳铲|考古|打卡|打个卡|镇站之宝)
+<item enabled="true">r=(建议)?.*倍(食|使|试)用(更加|更佳)?
+<item enabled="true">r=有个.*不错
+<item enabled="true">r= ⎛⎝.*⎠⎞
+<item enabled="true">r=(w|万|完结)(助攻|贺电|撒花)
+<item enabled="true">r=[Cc菜蔡][Xx徐][Kk坤]
 </filters>
