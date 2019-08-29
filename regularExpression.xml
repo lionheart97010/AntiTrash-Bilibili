@@ -44,4 +44,6 @@
 <item enabled="true">r= ⎛⎝.*⎠⎞
 <item enabled="true">r=(w|万|完结)(助攻|贺电|撒花)
 <item enabled="true">r=[Cc菜蔡][Xx徐][Kk坤]
+<item enabled="true">r=^说.*的
+
 </filters>
