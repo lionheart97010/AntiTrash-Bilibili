@@ -34,16 +34,16 @@
 <item enabled="true">r=我的.*随意</item>
 <item enabled="true">r=(卢本伟|芦苇|卢姥爷|lbw|LBW|Lbw)</item>
 <item enabled="true">r=^.{1,2}色$</item>
-<item enabled="true">r=献祭.*(许愿|换|给我)
-<item enabled="true">r=^(许愿|还愿|还原|出了|没出)
-<item enabled="true">r=(许愿|还原|还愿|出了|没出)$
-<item enabled="true">r=^(出了|没出|已出)$
-<item enabled="true">r=(洛阳铲|考古|打卡|打个卡|镇站之宝)
-<item enabled="true">r=(建议)?.*倍(食|使|试)用(更加|更佳)?
-<item enabled="true">r=有个.*不错
-<item enabled="true">r= ⎛⎝.*⎠⎞
-<item enabled="true">r=(w|万|完结)(助攻|贺电|撒花)
-<item enabled="true">r=[Cc菜蔡][Xx徐][Kk坤]
-<item enabled="true">r=^说.*的
+<item enabled="true">r=献祭.*(许愿|换|给我)</item>
+<item enabled="true">r=^(许愿|还愿|还原|出了|没出)</item>
+<item enabled="true">r=(许愿|还原|还愿|出了|没出)$</item>
+<item enabled="true">r=^(出了|没出|已出)$</item>
+<item enabled="true">r=(洛阳铲|考古|打卡|打个卡|镇站之宝)</item>
+<item enabled="true">r=(建议)?.*倍(食|使|试)用(更加|更佳)?</item>
+<item enabled="true">r=有个.*不错</item>
+<item enabled="true">r= ⎛⎝.*⎠⎞</item>
+<item enabled="true">r=(w|万|完结)(助攻|贺电|撒花)</item>
+<item enabled="true">r=[Cc菜蔡][Xx徐][Kk坤]</item>
+<item enabled="true">r=^说.*的</item>
 
 </filters>
