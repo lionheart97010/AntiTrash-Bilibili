@@ -11,7 +11,7 @@
 <item enabled="true">r=开口(跪|尿|已跪|脆|溜)</item>
 <item enabled="true">r=(蜜汁|迷之|迷の)(带感|感动|好听|动听|不火)</item>
 <item enabled="true">r=(我|你们|来看|看)老婆</item>
-<item enabled="true">r=(愛|爱)*(MIKU|Miku|miku|ミク)(赛高|賽高)*</item>
+<item enabled="true">r=^(愛|爱)*(MIKU|Miku|miku|ミク)(赛高|賽高)*</item>
 <item enabled="true">r=这个.*我给(100|一百|壹佰|99|九十九|玖拾玖)分</item>
 <item enabled="true">r=(硬|处女)币(已投|已给|已丢|已滚|拿去|走起|给了)</item>
 <item enabled="true">r=高产(Up主|up主|UP主|似母猪)</item>
