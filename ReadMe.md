@@ -18,7 +18,7 @@
 # RegularExpression
 
 由于bilibili的正则表达式不是正常的正则表达式匹配模式，正则表达式的屏蔽范围可能比预想的要宽。
-（忽略头匹配、尾匹配。只要能匹配出某条弹幕的一部分，即使某些特征，如该匹配必须在字符串头部，不符合正则表达式要求，也会被匹配并屏蔽。而且稍微长一点的表达式就会被拒绝同步，即使能通过正则表达式测试且少于明示的要求50字符。）
+（只要能匹配出某条弹幕的一部分，即使某些特征，如该匹配必须在字符串头部，不符合正则表达式要求，也可能会被匹配并屏蔽（待测试）。而且稍微长一点的表达式就会被拒绝同步，即使能通过正则表达式测试且少于明示的要求50字符。）
 
 TODO：日期的同步规则。之前写的日期同步规则都不能同步。如果实在不行我会考虑将本来能在一个表达式内表示的几个连接符可能性拆成若干个单独的表达式。
 
@@ -54,11 +54,11 @@ You can delete all your items in your banlist. But before you do that,always rem
 
 # Users
 
-There are comments to tell why they've been banned below every users.
+There are comments to tell why they've been banned below every users. Always remember to save as Unicode.
 
 # Text
 
-If there are three or more similar items in "text.xml" , I'll move them into "regularExpression.xml".
+If there are three or more similar items in "text.xml" , I may move them into "regularExpression.xml".
 
 # RegularExpression
 
@@ -68,3 +68,6 @@ Dates
 
 Meaningless repeating(single character)
 
+There're some hidden rules in the website. If some of the clauses cannot upload to the server, please mark it here. 
+
+TODO:blocking the fxxking dates.
