@@ -1,5 +1,4 @@
 ﻿<filters>
-
 <item enabled="true">u=51e4bd92</item>
     <!--发送无意义空耳-->
 <item enabled="true">u=4dd47fdf</item>
@@ -25,5 +24,7 @@
 <item enabled="true">u=24a65546</item>
     <!--弹幕刷屏-->
 <item enabled="true">u=3555be5f</item>
+    <!--弹幕刷屏-->
+<item enabled="true">u=a79bc0ad</item>
     <!--弹幕刷屏-->
 </filters>
