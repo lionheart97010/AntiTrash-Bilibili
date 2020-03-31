@@ -70,4 +70,4 @@ Meaningless repeating(single character)
 
 There're some hidden rules in the website. If some of the clauses cannot upload to the server, please mark it here. 
 
-TODO:blocking the fxxking dates.
+TODO:blocking those fxxking dates.
