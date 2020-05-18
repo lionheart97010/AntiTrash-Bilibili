@@ -45,4 +45,8 @@
 <item enabled="true">r=(w|万|完结)(助攻|贺电|撒花)</item>
 <item enabled="true">r=[Cc菜蔡][Xx徐][Kk坤]</item>
 <item enabled="true">r=^说.*的</item>
+<item enabled="true">r=^(保护){1,}$</item>
+<item enabled="true">r=.*把.*打在.*上</item>
+<item enabled="true">r=^来(了|啦|拉|辣)[!！]?$</item>
+<item enabled="true">r=每(日|天) ?(一|亿|yi|Yi|YI)遍</item>
 </filters>
