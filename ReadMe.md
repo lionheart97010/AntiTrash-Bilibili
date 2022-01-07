@@ -13,6 +13,8 @@
 
 2020-05-03新增：稍微放宽在*弹幕狂欢位置*的弹幕条数限制。
 
+2022-1-7 
+
 # Text
 
 如果有三条或以上比较相似的文本屏蔽规则，则会将这些条目移动至正则表达式屏蔽列表。
@@ -51,7 +53,7 @@ Maybe out of date.
 
 Get rid of Fxxking annoying meaningless barrages.
 
-You can delete all your items in your banlist. But before you do that,always remember to BACKUP.
+BACKUP before you sync your ban list.
 
 # Users
 
