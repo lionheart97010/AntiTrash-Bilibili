@@ -1,5 +1,5 @@
 
-# BAntiTrash@Bilibili
+# AntiTrash@Bilibili
 
 摆脱睿智弹幕从我做起。直接下载并导入本表单即可。导入之前请先备份自己的屏蔽列表。
 
