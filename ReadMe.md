@@ -1,5 +1,5 @@
 
-# BilibiliAntiDemo
+# BAntiTrash@Bilibili
 
 摆脱睿智弹幕从我做起。直接下载并导入本表单即可。导入之前请先备份自己的屏蔽列表。
 
@@ -11,7 +11,7 @@
 
 2020-05-03新增：稍微放宽在*弹幕狂欢位置*的弹幕条数限制。
 
-2022-1-7 由于部分移动设备网络原因导致重复发送进而被误伤的无辜群众太多，该表单暂时清空停用。
+2022-1-7 由于部分移动设备网络原因导致重复发送进而被误伤的无辜群众太多，该表单暂时改为手动添加模式，规则暂定为重复发送相同内容导致遮挡视频，在4级屏蔽等级下无法被系统自动屏蔽的弹幕发送者。
 
 # Text
 
@@ -21,31 +21,13 @@
 
 正则表达式的屏蔽范围可能比预想的要宽。此外某些规则可能会以意外方式被正则表达式匹配引擎理解或忽略，请注意。此外稍微长一点的表达式就会被拒绝同步，即使能通过正则表达式测试且少于明示的要求50字符。
 
-TODO：日期的同步规则。之前写的日期同步规则都不能同步。如果实在不行我会考虑将本来能在一个表达式内表示的几个连接符可能性拆成若干个单独的表达式。
-
-目前能够想到的日期格式有：
-
-2019年6月28日
-
-2019-06-28
-
-2019/06/28
-
-2019、06、28
-
-2019\06\28
-
-2019 06 28
-
-二〇一九年六月二十八日
-
-这几种可能。欢迎补充。
 
 
 # Eng.Ver.
 
 Maybe out of date.
 
+Get rid of stupid damuku. Backup before you import the list. If you can't import them, try re-saving those files with UTF-8. 
 
 # BilibiliAntiDemo
 
@@ -63,12 +45,4 @@ If there are three or more similar items in "text.xml" , I may move them into "r
 
 # RegularExpression
 
-Rules for blocking:
-
-Dates
-
-Meaningless repeating(single character)
-
-There're some hidden rules in the website. If some of the clauses cannot upload to the server, please mark it here. 
-
-TODO:blocking those fxxking dates.
+Some continent may be matched in an unexcepted way. If you find this, please help reporting.
